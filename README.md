@@ -1,9 +1,18 @@
-<h1 align="center">Hi there, I'm Fayuh</h1>
+<h1 align="center">Hi there, I'm Fayuh 👋</h1>
 <h3 align="center">Full-Stack Developer & Systems Architect</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kkaizo&style=for-the-badge&color=A020F0&label=VISITAS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=fayuth&style=for-the-badge&color=A020F0&label=VISITAS" alt="Profile Views" />
 </p>
+
+---
+
+### 💻 Sobre mí
+
+- 🔭 Actualmente me encuentro desarrollando arquitecturas web robustas y escalables con **Laravel**, **Node.js** y **React**.
+- ⚙️ Administro servidores VPS en **Linux**, configurando entornos de contenedores con Docker y bases de datos relacionales.
+- 🎮 Apasionado por el desarrollo de software backend y la optimización de sistemas de alto rendimiento.
+- ⚡ **Stack principal:** PHP • Java • Python • Go • JavaScript.
 
 ---
 
@@ -22,11 +31,8 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=fayuth&show_icons=true&title_color=A020F0&icon_color=A020F0&text_color=ffffff&bg_color=000000&hide_border=true" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fayuth&layout=compact&title_color=A020F0&icon_color=A020F0&text_color=ffffff&bg_color=000000&hide_border=true" alt="Top Langs" />
+  <img src="https://streak-stats.demolab.com?user=fayuth&theme=dark&background=000000&border=000000&stroke=A020F0&ring=A020F0&fire=A020F0&currStreakLabel=A020F0" alt="GitHub Streak" />
 </p>
